@@ -1,6 +1,6 @@
-name: Solar Theme
+name: Musings of a Plutonian Scientist
 url: http://example.org
-description: A stylish blog using the Solarized color palette
+description: Simply a place to vent "percieved" frustrations with the Plutonian Elite and Government.
 
 permalink: /:year/:month/:day/:title/
 paginate: 10
